@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rayden96
 - 👀 I’m interested in AI, Complex Algortihms and Data Science
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Nothing at the moment
+- 🌱 I’m currently finishing my Masters in Computer Science, Building a novel optimizer for training Neural Networks
 - 📫 How to reach me rayden.logan.viljoen@gmail.com
 
 <!---
